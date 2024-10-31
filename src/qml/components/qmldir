@@ -1,0 +1,12 @@
+module components
+NavigationBar 1.0 NavigationBar.qml
+NavigationButton 1.0 NavigationButton.qml
+StatusBar 1.0 StatusBar.qml
+TaskCard 1.0 TaskCard.qml
+FooterBar 1.0 FooterBar.qml
+InputText 1.0 InputText.qml
+AboutTask 1.0 AboutTask.qml
+SubscriptionHistoryRow 1.0 SubscriptionHistoryRow.qml
+SubscriptionTypeCard 1.0 SubscriptionTypeCard.qml
+MyComboBox 1.0 MyComboBox.qml
+NotificationItem 1.0 NotificationItem.qml

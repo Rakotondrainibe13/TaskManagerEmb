@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/components">
+        <file alias="qmldir">components/qmldir</file>
+        <file alias="StatusBar.qml">components/StatusBar.qml</file>
+        <file alias="NavigationBar.qml">components/NavigationBar.qml</file>
+        <file alias="NavigationButton.qml">components/NavigationButton.qml</file>
+        <file alias="NotificationButton.qml">views/notification/NotificationButton.qml</file>
+        <file alias="TaskCard.qml">components/TaskCard.qml</file>
+        <file alias="FooterBar.qml">components/FooterBar.qml</file>
+        <file alias="MonthGridDelegate.qml">components/MonthGridDelegate.qml</file>
+        <file alias="AboutTask.qml">components/AboutTask.qml</file>
+        <file alias="SubscriptionHistoryRow.qml">components/SubscriptionHistoryRow.qml</file>
+        <file alias="SubscriptionTypeCard.qml">components/SubscriptionTypeCard.qml</file>
+        <file alias="InputText.qml">components/InputText.qml</file>
+        <file alias="MyComboBox.qml">components/MyComboBox.qml</file>
+        <file alias="NotificationItem.qml">views/notification/NotificationItem.qml</file>
+    </qresource>
+</RCC>

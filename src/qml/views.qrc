@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/views">
+        <file alias="Main.qml">views/Main.qml</file>
+        <file alias="FormValidator.qml">views/FormValidator.qml</file>
+        <file alias="SplashScreen.qml">views/SplashScreen.qml</file>
+        <file alias="LoginScreen.qml">views/LoginScreen.qml</file>
+        <file alias="TaskListScreen.qml">views/TaskListScreen.qml</file>
+        <file alias="TaskDetailScreen.qml">views/TaskDetailScreen.qml</file>
+        <file alias="TaskEditScreen.qml">views/TaskEditScreen.qml</file>
+        <file alias="NotificationItem.qml">views/notification/NotificationItem.qml</file>
+        <file alias="NotificationManager.qml">views/notification/NotificationManager.qml</file>
+        <file alias="NotificationScreen.qml">views/notification/NotificationScreen.qml</file>
+        <file alias="UserScreen.qml">views/UserScreen.qml</file>
+        <file alias="TaskCreateScreen.qml">views/task/TaskCreateScreen.qml</file>
+        <file alias="NetworkConfigScreen.qml">views/NetworkConfigScreen.qml</file>
+        <file alias="RetentionConfigScreen.qml">views/RetentionConfigScreen.qml</file>
+        <file alias="NetworkMonitoringScreen.qml">views/NetworkMonitoringScreen.qml</file>
+        <file alias="NetworkLogScreen.qml">views/NetworkLogScreen.qml</file>
+        <file alias="EventCalendar.qml">views/EventCalendar.qml</file>
+        <file alias="SubscriptionStateScreen.qml">views/SubscriptionStateScreen.qml</file>
+        <file alias="SubscriptionCreateScreen.qml" >views/SubscriptionCreateScreen.qml</file>
+        <file alias="SubscriptionDetailScreen.qml">views/SubscriptionDetailScreen.qml</file>
+        <file alias="StatisticScreen.qml">views/StatisticScreen.qml</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>

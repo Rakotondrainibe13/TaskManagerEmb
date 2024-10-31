@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file>qml/assets/Style.qml</file>
+        <file>qml/assets/Funnel.png</file>
+    </qresource>
+</RCC>

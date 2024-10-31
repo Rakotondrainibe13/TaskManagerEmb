@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file alias="Style.qml">assets/Style.qml</file>
+        <file alias="qmldir">assets/qmldir</file>
+        <file alias="Funnel.png">assets/Funnel.png</file>
+        <file alias="fontawesome-webfont.ttf">assets/fontawesome-webfont.ttf</file>
+        <file>assets/Funnel.png</file>
+        <file alias="delete.png">assets/img/icon/delete.png</file>
+        <file alias="check.png">assets/img/icon/verifier.png</file>
+        <file alias="edit.png">assets/img/icon/editer.png</file>
+        <file alias="plus.png">assets/img/icon/plus.png</file>
+        <file alias="yes.png">assets/img/icon/correct.png</file>
+    </qresource>
+</RCC>
